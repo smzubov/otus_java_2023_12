@@ -5,6 +5,6 @@ Java Developer. Professional
 
 Группа 2023_12
 
-# Студент
+## Студент
 
 Сергей Зубов
